@@ -1,4 +1,4 @@
-### Hello Everybody! 👋🏼 
+### Hello World! 👋🏼 
 
 - 🔭 I’m currently working on figuring this out!
 - 🌱 I’m currently learning the basics.
