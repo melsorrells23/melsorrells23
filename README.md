@@ -1,4 +1,5 @@
 ### Hello, World! 👋🏼 
 
-![Image of Gangnamtocat](https://octodex.github.com/images/gangnamtocat.png)
+![Image of Dodgetocat](https://octodex.github.com/images/dodgetocat.jpg)
+
 
